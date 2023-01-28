@@ -1,0 +1,33 @@
+{
+  "name": "dictionary-bg-ivanchov",
+  "version": "1.0.0",
+  "description": "Bulgarian (Ivanchov 1899 orthography) spelling dictionary",
+  "license": "GPL-3.0",
+  "keywords": [
+    "spelling",
+    "myspell",
+    "hunspell",
+    "dictionary",
+    "bg-ivanchov",
+    "bulgarian",
+    "ivanchov",
+    "ivanchevski",
+    "orthography"
+  ],
+  "repository": "https://github.com/noomorph/dictionaries/tree/main/dictionaries/bg-ivanchov",
+  "bugs": "https://github.com/noomorph/dictionaries/issues",
+  "author": "Dimo Vanchev",
+  "contributors": [
+    "Titus Wormer <tituswormer@gmail.com>",
+    "Yaroslav Serhieiev <noomorph@gmail.com>"
+  ],
+  "files": [
+    "index.js",
+    "index.aff",
+    "index.dic",
+    "index.d.ts"
+  ],
+  "devDependencies": {
+    "semantic-release": "^20.1.0"
+  }
+}
